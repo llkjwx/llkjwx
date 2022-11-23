@@ -32,13 +32,13 @@ QQ：10219805
 
 🌈工具下载
 
-🔥IOS端shadowrocket [立即下载](https://apps.apple.com/us/app/shadowrocket.apk)
+🔥IOS端shadowrocket [立即下载](https://free.shadowrocket.online)
 
 🔥Android端Clash [立即下载](https://download.hutao.cloud/clients/Clash-Android.apk)
 
 🔥Windows端Clash [立即下载](https://download.hutao.cloud/clients/Clash-Windows.exe)
 
-🔥Windows端Clash汉化地址 [立即下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
+🔥Windows端Clash汉化补丁 [立即下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
 
 🔥macOS端Clash [立即下载](https://download.hutao.cloud/clients/ClashX.dmg)
 
