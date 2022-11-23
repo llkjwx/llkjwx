@@ -1,4 +1,4 @@
-欢迎您来到<流量科技>
+欢迎您来到<流量科技>✨科学上网技术分享💥
 IEPL专线✅
 全平台支持✅
 节点负载均衡✅
@@ -19,7 +19,7 @@ SS+SSR++V2ray+Trojan协议✅
 
 ⭐️欢迎加入我的QQ：10219805 WeChat:LLKJWX 
 
-🌐工具下载
+🌈工具下载
 
 🔥IOS端shadowrocket [立即下载](https://apps.apple.com/us/app/shadowrocket.apk)
 
