@@ -10,7 +10,7 @@
 
 ⭐️微信:LLKJWX[点击加好友](https://eturl.cn/B5CicD) 
 
-🔥订阅节点🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇬🇧🇮🇳🇳🇱
+🔥免費节点🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇬🇧🇮🇳🇳🇱
 
 [通用节点](https://llkjwx.github.io/node)
 
