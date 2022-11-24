@@ -6,7 +6,7 @@
 
 🔥IEPL专线节点
 
-🌟购买咨询QQ：10219805 微信:LLKJWX[点击加我好友](https://eturl.cn/B5CicD) 
+🌟购买咨询QQ：10219805 微信:LLKJWX[点击加好友](https://eturl.cn/B5CicD) 
 
 🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇮🇹
 
