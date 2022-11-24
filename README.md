@@ -6,7 +6,9 @@
 
 🔥节点订阅
 
-[订阅通用节点](https://llkjwx.github.io/node)https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c
+[订阅通用节点](https://llkjwx.github.io/node)
+
+https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c
 
 🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇮🇹
 
