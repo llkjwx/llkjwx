@@ -1,12 +1,12 @@
 🆕免费节点分享!每天更新 
 
-⭐️QQ：10219805 微信:LLKJWX 流量科技
+⭐️QQ：10219805 微信:[LLKJWX](https://eturl.cn/B5CicD) 流量科技
 
 🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇮🇹
 
 🔥节点订阅
 
-[通用节点](https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c)[点击复制]https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c
+[订阅通用节点](https://llkjwx.github.io/node)https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c
 
 🇺🇸🇰🇷🇯🇵🇸🇬🇭🇰🇹🇼🇩🇪🇫🇷🇮🇹
 
