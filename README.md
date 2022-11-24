@@ -1,6 +1,7 @@
-欢迎您来到<流量科技>科学上网技术分享💥
-
-IEPL专线✅
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+ <title>IEPL专线✅
 
 全平台支持✅
 
@@ -50,4 +51,19 @@ QQ：10219805
 
 🌏Windows clash使用教程 [点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/windows/clash-for-windows)
 
-⚡️macOS Clash使用教程 [点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/clashx)
+⚡️macOS Clash使用教程 [点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/clashx)</title>
+ <meta charset="UTF-8">
+ <style type="text/css">
+ body{background: #ddd;}
+ div{width:300px;height:180px;margin:10px auto;color:#fff;font-size:24px;}
+ .box1{background: #71a879;text-align: center;}
+ .box2{background: #6a8bbc;line-height: 200px;}
+ .box3{background: #dea46b;text-align: center;line-height: 200px;}
+ </style>
+</head>
+<body>
+<div  class="box1">html文字水平居中</div>
+<div  class="box2">html文字垂直居中</div>
+<div  class="box3">html文字水平上下居中</div>
+</body>
+</html>
