@@ -22,23 +22,38 @@ https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769e
 
 🌟工具下载
 
+🔥IOS for Surge [立即下载](https://apps.apple.com/us/app/surge-5/id1442620678)
+
+🔥IOS for shadowrocket [立即下载](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+🔥macOS for Surge [立即下载](https://dl.nssurge.com/mac/v4/Surge-latest.zip)
+
+🔥macOS for Clash [立即下载](https://download.hutao.cloud/clients/ClashX.dmg)
+
+🔥Android for SSR [立即下载](https://download.hutao.cloud/clients/ssr-android.apk)
+
 🔥Android for Clash [立即下载](https://download.hutao.cloud/clients/Clash-Android.apk)
 
-🔥macOS for Clash：[立即下载](https://download.hutao.cloud/clients/ClashX.dmg)
-
-🔥IOS for shadowrocket [立即下载](https://apps.apple.com/us/app/shadowrocket.apk)
-
+🔥Windows for SSR [立即下载](https://download.hutao.cloud/clients/ssr-win.7z)
 
 🔥Windows for Clash [立即下载](https://download.hutao.cloud/clients/Clash-Windows.exe)
 
-🔥Windows for Clash汉化补丁：[立即下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
+🔥Windows for Clash汉化补丁 [立即下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
 
-🌟工具使用教程
+🌟工具使用教程&流量科技
 
-🌟macOS for Clash使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/mac/clashx)
+🌟IOS for Surge 使用教程： [点击查看](https://wikibos.com/index.php/kb/surge/)
 
-🌟Android for Clash使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/android/clashforandroid)
+🌟IOS for Shadowrocket使用教程：[点击查看](https://wikibos.com/index.php/kb/shadowrocket/)
 
-🌟Windows for clash使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/windows/clash-for-windows)
+🌟macOS for ClashX 使用教程：[点击查看](https://wikibos.com/index.php/kb/clashx/)
 
-🌟IOS for Shadowrocket使用教程：[点击查看](https://hutaocloud-1.gitbook.io/hutaocloud/ios/shadowrocket)
+🌟macOS for Surge 使用教程：[点击查看](https://nssurge.com/)
+
+🌟Android for SSR 使用教程：[点击查看](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr&hl=en&gl=US)
+
+🌟Android for Clash使用教程：[点击查看](https://wikibos.com/index.php/kb/clash-for-android/)
+
+🌟Windows for SSR  使用教程：[点击查看](https://play.google.com/store/apps/details?id=com.hdev.shadowsocksr&hl=en&gl=US)
+
+🌟Windows for Clash使用教程：[点击查看](https://wikibos.com/index.php/kb/clash-for-windows/)
