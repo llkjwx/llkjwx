@@ -12,9 +12,9 @@
 
 🔥全球免费节点🇺🇸🇯🇵🇰🇷🇬🇧🇫🇷🇩🇪🇷🇺🇸🇬🇭🇰
 
-[通用节点](https://llkjwx.github.io/node)
+[免费节点](https://llkjwx.github.io/node)
 
-https://subscribe.pronetworklink.com/api/v1/client/14d47b8ccf997ae36eacbf345769ee6c
+https://llkjwx.github.com/node
 
 ⚠️所有免费节点来源于网络，仅供学习参考使用，请勿用于非法用途！
 
