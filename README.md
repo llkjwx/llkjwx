@@ -1,4 +1,4 @@
-🆕免费节点分享#更新时间2022-11-27
+🆕免费节点分享#更新时间2022年12月
 
 🔥美国Apple ID🇺🇸
 
@@ -14,7 +14,7 @@
 
 [免费节点](https://llkjwx.github.io/node)
 
-https://llkjwx.github.com/node
+https://git.io/emzclash
 
 ⚠️所有免费节点来源于网络，仅供学习参考使用，请勿用于非法用途！
 
